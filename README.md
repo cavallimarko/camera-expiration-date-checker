@@ -13,13 +13,16 @@ An Android application that helps users check product expiration dates using cam
 - 🎨 Modern UI built with Jetpack Compose
 - 📱 View captured scans in an integrated gallery
 
+
 ## Main Functionality
 
 This application serves as an expiration date checker with dual input methods:
 
 1. **Camera Recognition**: Point your camera at a product's expiration date and the app will automatically detect and process the date information using ML Kit's text recognition capabilities.
+<img src="https://github.com/user-attachments/assets/2dde7dd2-e0e9-4b2e-b7bf-b8d702e94548" width=30% height=30%>
 
-2. **Manual Entry**: If the camera has difficulty recognizing the date or if you prefer manual input, the app provides a simple interface to manually enter expiration dates.
+3. **Manual Entry**: If the camera has difficulty recognizing the date or if you prefer manual input, the app provides a simple interface to manually enter expiration dates.
+<img src="https://github.com/user-attachments/assets/93e79d6f-bea3-41f4-812d-cf754257e4b3" width=30% height=30%>
 
 ## Requirements
 
